@@ -308,7 +308,7 @@ article.blog_post:last-child {
   list-style: outside none none;
 }
 .page-numbers li:hover a, .page-numbers li:hover span, .page-numbers li .current {
-  background-color: hsl(42, 93%, 51%);
+  background-color: #e62027;
   color: hsl(0, 0%, 100%);
   border-radius: 10px;
 }
@@ -644,7 +644,7 @@ section.coming_soon_bg:after {
   right: 240px;
 }
 .search_btn-2 .btn.btn-default {
-  background: hsl(42, 93%, 51%) none repeat scroll 0 0;
+  background: #e62027 none repeat scroll 0 0;
   border: medium none;
 border-radius: 0 10px 10px 0;
   color: hsl(0, 0%, 100%);
@@ -802,7 +802,7 @@ ul.breadcrumbs_m {
 }
 
 .search_btn .btn.btn-default {
-  background: hsl(42, 93%, 51%) none repeat scroll 0 0;
+  background: #e62027 none repeat scroll 0 0;
   border: 1px solid hsl(0, 0%, 100%);
   border-radius: 10px;
   color: hsl(0, 0%, 100%);
@@ -994,7 +994,7 @@ section.top_banner_bg:after {
   font-weight: 700;
 }
 .present b {
-  color: hsl(42, 93%, 51%);
+  color: #e62027;
   font-weight: 700;
 }
 
@@ -1171,9 +1171,9 @@ section.top_banner_bg:after {
 
 
 .services_detail span {
-  border: 2px solid hsl(42, 93%, 51%);
+  border: 2px solid #e62027;
   border-radius: 100%;
-  color: hsl(42, 93%, 51%);
+  color: #e62027;
   display: inline-block;
   float: left;
   font-size: 30px;
@@ -1270,9 +1270,9 @@ section.our_service_bg:after {
 }
 
 .how_it_work_m.text-right h5::after {
-  border-bottom: 1px solid hsl(42, 93%, 51%);
+  border-bottom: 1px solid #e62027;
   bottom: 0;
-  color: hsl(42, 93%, 51%);
+  color: #e62027;
   content: "";
   position: absolute;
   right: -60px;
@@ -1407,7 +1407,7 @@ section.our_service_bg:after {
 }
 
 .section_sub_btn .btn.btn-default {
-  background: hsl(42, 93%, 51%) none repeat scroll 0 0;
+  background: #e62027 none repeat scroll 0 0;
   border: 0 none;
   border-radius: 10px;
   color: hsl(0, 0%, 100%);
@@ -1463,7 +1463,7 @@ section.price_table_bg:after {
   line-height: 27px;
 }
 .member_name > p {
-  color: hsl(42, 93%, 51%);
+  color: #e62027;
   font-weight: 600;
   line-height: 25px;
   margin: 0;
@@ -1660,7 +1660,7 @@ label {
 }
 
 .contact_text span {
-  color: hsl(42, 93%, 51%);
+  color: #e62027;
   display: inline-block;
   float: left;
   font-size: 50px;
